@@ -1,40 +1,46 @@
 # Strathmore University Tutoring Platform
 
-A secure, student-only web platform where Strathmore University students can offer and receive tutoring services.
+A secure, student-only web platform where Strathmore University students can offer and receive tutoring service.
 
 ## Features
 
 ### Authentication & Access
+
 - Strathmore email validation (@strathmore.edu)
 - Email verification
 - Optional two-factor authentication
 - Student ID verification
 
 ### User Profiles
+
 - Tutor and tutee profiles
 - Profile verification for tutors
 - Ratings and reviews system
 - Subject expertise listing
 
 ### Booking System
+
 - Availability scheduling
 - Session management
 - Calendar integration
 - Session reminders
 
 ### Communication
+
 - In-app messaging
 - Session notes
 - Real-time notifications
 - Email notifications
 
 ### Payment System (Optional)
+
 - In-app credits
 - M-Pesa integration
 - Secure transactions
 - Platform commission handling
 
 ### Admin Features
+
 - User management
 - Tutor verification
 - Dispute resolution
@@ -52,29 +58,35 @@ A secure, student-only web platform where Strathmore University students can off
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/tutorapp.git
 cd tutorapp
 ```
 
 2. Install dependencies:
+
 ```bash
 composer install
 ```
 
 3. Create a MySQL database and import the schema:
+
 ```bash
 mysql -u your_username -p your_database_name < config/schema.sql
 ```
 
 4. Configure the database connection:
+
 - Copy `config/database.example.php` to `config/database.php`
 - Update the database credentials
 
 5. Configure email settings:
+
 - Update SMTP settings in `config/config.php`
 
 6. Set up the web server:
+
 - Point your web server to the project directory
 - Ensure the `uploads` directory is writable
 
@@ -126,4 +138,4 @@ For support, email support@tutorapp.strathmore.edu or visit the Strathmore Unive
 
 - Strathmore University
 - All contributors
-- Open source libraries used in this project 
+- Open source libraries used in this project
