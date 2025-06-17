@@ -1,0 +1,12 @@
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule>
+
+<IfModule !mod_authz_core.c>
+    Order Allow,Deny
+    Allow from all
+</IfModule>
+
+<FilesMatch "\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch> 
