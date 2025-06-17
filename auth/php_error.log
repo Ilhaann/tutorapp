@@ -1,0 +1,91 @@
+[01-May-2025 10:01:03 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:01:03 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:01:03 Europe/Berlin] Email domain check: FAIL
+[01-May-2025 10:01:03 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:01:03 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:01:03 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:01:10 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:01:10 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:01:10 Europe/Berlin] Email domain check: FAIL
+[01-May-2025 10:01:10 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:01:10 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:01:10 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:12:45 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:12:45 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:12:45 Europe/Berlin] Email domain check: FAIL
+[01-May-2025 10:12:45 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:12:45 Europe/Berlin] Allowed domains: @strathmore.edu, @smu.ac.ke
+[01-May-2025 10:12:45 Europe/Berlin] Validation result: FAIL
+[01-May-2025 10:21:24 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:21:24 Europe/Berlin] Validation result: PASS
+[01-May-2025 10:21:24 Europe/Berlin] Email domain check: PASS
+[01-May-2025 10:21:24 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:21:24 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:21:24 Europe/Berlin] Validation result: PASS
+[01-May-2025 10:33:30 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:33:30 Europe/Berlin] Validation result: PASS
+[01-May-2025 10:33:30 Europe/Berlin] Email domain check: PASS
+[01-May-2025 10:33:30 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:33:30 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:33:30 Europe/Berlin] Validation result: PASS
+[01-May-2025 10:35:17 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:35:17 Europe/Berlin] Validation result: PASS
+[01-May-2025 10:35:17 Europe/Berlin] Email domain check: PASS
+[01-May-2025 10:35:17 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 10:35:17 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 10:35:17 Europe/Berlin] Validation result: PASS
+[01-May-2025 13:34:54 Europe/Berlin] Attempting login with email: fatuma.marsa@strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Email domain: strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Raw email from POST: fatuma.marsa@strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Processed email: fatuma.marsa@strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 13:34:54 Europe/Berlin] Validation result: PASS
+[01-May-2025 13:34:54 Europe/Berlin] Email domain check: PASS
+[01-May-2025 13:34:54 Europe/Berlin] Checking email: fatuma.marsa@strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Extracted domain: strathmore.edu
+[01-May-2025 13:34:54 Europe/Berlin] Allowed domains: strathmore.edu, smu.ac.ke
+[01-May-2025 13:34:54 Europe/Berlin] Validation result: PASS
