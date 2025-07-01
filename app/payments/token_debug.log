@@ -1,0 +1,143 @@
+Token Response: {"grant_type":"client_credentials"}
+Raw Response: {"grant_type":"client_credentials"}
+Token Response: null
+Raw Response: grant_type=client_credentials
+Request URL: https://sandbox.safaricom.co.ke/oauth/v1/generate
+Credentials: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Raw Response: grant_type=client_credentials
+Response Status: 200
+Response Headers: {"host":["sandbox.safaricom.co.ke"],"user-agent":["GuzzleHttp\/7"],"authorization":["Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg="],"content-type":["application\/x-www-form-urlencoded"],"content-length":["29"],"cdn-loop":["IncapCDN; id=\"1022_2742146_0\""],"x-forwarded-for":["197.232.77.95, 192.230.106.5,10.197.136.63"],"incap-client-ip":["197.232.77.95"],"x-forwarded-proto":["https"],"x-request-id":["77210a1e-6e08-4d39-a6a2-6b7dcf189652"],"x-dynatrace":["FW4;-1055106265;4;-1185594308;251124204;0;643789619;336;58e9;2h01;3hb955443c;4h0ef7d9ec;5h01;6hbe2d7622748d724e6f0e83efe38b3ba3;7h34ecd25ed38a36c6"],"tracestate":["265f7333-c11c5b27@dt=fw4;4;b955443c;ef7d9ec;0;0;0;150;e296;2h01;3hb955443c;4h0ef7d9ec;5h01;7h34ecd25ed38a36c6"],"traceparent":["00-be2d7622748d724e6f0e83efe38b3ba3-34ecd25ed38a36c6-01"],"date":["Sun, 25 May 2025 22:06:45 GMT"],"Set-Cookie":["visid_incap_2742146=HimP2Ta9SiirL9cjY5n\/IHSUM2gAAAAAQUIPAAAAAACDC7GUiWeDJXxCaQCDpyhU; expires=Mon, 25 May 2026 15:36:49 GMT; HttpOnly; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None","incap_ses_1022_2742146=ChMafOwNY3aZTsGe8N8uDnSUM2gAAAAAYWeNc7rtwV\/+6\/BMuPLewg==; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None"],"Strict-Transport-Security":["max-age=31536000"],"X-CDN":["Imperva"],"X-Iinfo":["13-2018808-2018837 NNNN CT(105 116 0) RT(1748210804044 933) q(0 0 2 -1) r(4 4) U6"]}
+General Error: Failed to parse token response: Syntax error
+Starting Token Request
+Base URI: https://sandbox.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://sandbox.safaricom.co.ke/oauth/v1/generate
+Response Status: 200
+Response Headers: {"host":["sandbox.safaricom.co.ke"],"user-agent":["GuzzleHttp\/7"],"authorization":["Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg="],"content-type":["application\/x-www-form-urlencoded"],"content-length":["29"],"cdn-loop":["IncapCDN; id=\"1022_2742146_0\""],"x-forwarded-for":["197.232.77.95, 192.230.106.5,10.184.20.31"],"incap-client-ip":["197.232.77.95"],"x-forwarded-proto":["https"],"x-request-id":["e12cdfea-7324-4f23-8721-bbb9df43e570"],"x-dynatrace":["FW4;-1055106265;4;-207802555;87350964;0;643789619;509;0107;2h01;3hf39d2f45;4h0534deb4;5h01;6hdb5d57dc9930d8b5f72440bfabb160f8;7h79b749b404db9674"],"tracestate":["265f7333-c11c5b27@dt=fw4;4;f39d2f45;534deb4;0;0;0;1fd;6dfd;2h01;3hf39d2f45;4h0534deb4;5h01;7h79b749b404db9674"],"traceparent":["00-db5d57dc9930d8b5f72440bfabb160f8-79b749b404db9674-01"],"date":["Sun, 25 May 2025 22:09:30 GMT"],"Set-Cookie":["visid_incap_2742146=jebICXwAQlO3cO71\/IGV2RqVM2gAAAAAQUIPAAAAAAAJdCv\/MqtQ5KUQKZvRwjWi; expires=Mon, 25 May 2026 15:36:49 GMT; HttpOnly; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None","incap_ses_1022_2742146=gX+vL1WGRQ1Z2cGe8N8uDhqVM2gAAAAAybQXNRUHZHeR4pq1UEOvDQ==; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None"],"Strict-Transport-Security":["max-age=31536000"],"X-CDN":["Imperva"],"X-Iinfo":["14-2675651-2675715 NNNN CT(105 107 0) RT(1748210969913 932) q(0 0 2 -1) r(3 3) U6"]}
+Raw Response: grant_type=client_credentials
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials
+Starting Token Request
+Base URI: https://sandbox.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://sandbox.safaricom.co.ke/oauth/v1/generate
+Response Status: 200
+Response Headers: {"host":["sandbox.safaricom.co.ke"],"user-agent":["GuzzleHttp\/7"],"authorization":["Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg="],"content-type":["application\/x-www-form-urlencoded"],"content-length":["29"],"cdn-loop":["IncapCDN; id=\"1022_2742146_0\""],"x-forwarded-for":["197.232.77.95, 192.230.106.5,10.184.20.31"],"incap-client-ip":["197.232.77.95"],"x-forwarded-proto":["https"],"x-request-id":["ea447768-994a-474c-bff3-1811137d7885"],"x-dynatrace":["FW4;-1055106265;8;-1867070452;68541686;-2147483648;643789619;397;5b93;2h01;3h90b6c40c;4h0415dcf6;5h01;6h826808307690a5cc40105b1a6d6d9190;7he1e3cc0fd70fd189"],"tracestate":["265f7333-c11c5b27@dt=fw4;8;90b6c40c;415dcf6;0;1;0;18d;3414;2h01;3h90b6c40c;4h0415dcf6;5h01;7he1e3cc0fd70fd189"],"traceparent":["00-826808307690a5cc40105b1a6d6d9190-e1e3cc0fd70fd189-00"],"date":["Sun, 25 May 2025 22:10:08 GMT"],"Set-Cookie":["visid_incap_2742146=0yZUTj0STha6lHvKRpNIyj+VM2gAAAAAQUIPAAAAAAAPjg90Jhqe5pB09PsBnfkN; expires=Mon, 25 May 2026 15:36:49 GMT; HttpOnly; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None","incap_ses_1022_2742146=annscSALZATd98Ge8N8uDj+VM2gAAAAAoRgPrDuk+G7CKqAZXT17kA==; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None"],"Strict-Transport-Security":["max-age=31536000"],"X-CDN":["Imperva"],"X-Iinfo":["11-1264723-1264763 NNNN CT(104 105 0) RT(1748211007293 1057) q(0 0 2 -1) r(3 3) U6"]}
+Raw Response: grant_type=client_credentials
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials
+Starting Token Request
+Base URI: https://sandbox.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://sandbox.safaricom.co.ke/oauth/v1/generate
+Response Status: 200
+Response Headers: {"host":["sandbox.safaricom.co.ke"],"user-agent":["GuzzleHttp\/7"],"authorization":["Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg="],"content-type":["application\/x-www-form-urlencoded"],"content-length":["29"],"cdn-loop":["IncapCDN; id=\"1022_2742146_0\""],"x-forwarded-for":["197.232.77.95, 192.230.106.5,10.197.136.63"],"incap-client-ip":["197.232.77.95"],"x-forwarded-proto":["https"],"x-request-id":["13946b85-e76e-409f-b76d-cde71022578e"],"x-dynatrace":["FW4;-1055106265;5;2068097741;255573642;0;643789619;715;cc82;2h01;3h7b44aacd;4h0f3bbe8a;5h01;6h2679945803258094680fe0c04ae87529;7h87a7cefe3505027f"],"tracestate":["265f7333-c11c5b27@dt=fw4;5;7b44aacd;f3bbe8a;0;0;0;2cb;0722;2h01;3h7b44aacd;4h0f3bbe8a;5h01;7h87a7cefe3505027f"],"traceparent":["00-2679945803258094680fe0c04ae87529-87a7cefe3505027f-01"],"date":["Sun, 25 May 2025 22:11:07 GMT"],"Set-Cookie":["visid_incap_2742146=sTI6rJaTSseia8gpUy6SEnuVM2gAAAAAQUIPAAAAAAByHIOn+kxoF5WvuKYHABa1; expires=Mon, 25 May 2026 15:36:49 GMT; HttpOnly; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None","incap_ses_1022_2742146=S782T93MPntOL8Ke8N8uDnuVM2gAAAAAHTRFR\/LNCcmKkBMln3LHMQ==; path=\/; Domain=.safaricom.co.ke; Secure; SameSite=None"],"Strict-Transport-Security":["max-age=31536000"],"X-CDN":["Imperva"],"X-Iinfo":["3-1256161-1256211 NNNN CT(100 102 0) RT(1748211067199 941) q(0 0 2 -1) r(3 3) U6"]}
+Raw Response: grant_type=client_credentials
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials
+Starting Token Request
+Base URI: https://sandbox.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://sandbox.safaricom.co.ke/oauth/v1/generate
+Response Status: 200
+Raw Response: grant_type=client_credentials
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials
+Starting Token Request
+Base URI: https://api.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://api.safaricom.co.ke/oauth/v1/generate
+Response Status: 200
+Raw Response: grant_type=client_credentials
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials
+Starting Token Request
+Base URI: https://api.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://api.safaricom.co.ke/oauth/token
+Response Status: 404
+Raw Response: 
+Raw Response (before parsing): 
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: 
+General Error: Invalid response format: 
+Starting Token Request
+Base URI: https://api.safaricom.co.ke
+Environment: sandbox
+Consumer Key: 8u58oz1Mrrk9siFMZJiKPZs2fP3VIzL2plx3E9P9nU0M70mc4CjwnJJ27Q1vFmPA (truncated)
+Consumer Secret: ************************************************
+Request URL: https://api.safaricom.co.ke/oauth/token
+Response Status: 200
+Raw Response: grant_type=client_credentials
+Curl Error: 
+Verbose Output: *   Trying 196.201.214.202:443...
+* Connected to api.safaricom.co.ke (196.201.214.202) port 443
+* ALPN: curl offers h2,http/1.1
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN: server accepted http/1.1
+* Server certificate:
+*  subject: C=KE; L=Nairobi; O=Safaricom PLC; CN=api.safaricom.co.ke
+*  start date: Nov  6 00:00:00 2024 GMT
+*  expire date: Nov  5 23:59:59 2025 GMT
+*  subjectAltName: host "api.safaricom.co.ke" matched cert's "api.safaricom.co.ke"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* using HTTP/1.1
+> POST /oauth/v1/generate HTTP/1.1
+Host: api.safaricom.co.ke
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg=
+Content-Length: 29
+
+< HTTP/1.1 200 OK
+< host: api.safaricom.co.ke
+< x-forwarded-for: 197.232.77.95,10.197.136.63
+< accept: */*
+< content-type: application/x-www-form-urlencoded
+< authorization: Basic OHU1OG96MU1ycms5c2lGTVpKaUtQWnMyZlAzVkl6TDJwbHgzRTlQOW5VME03MG1jNENqd25KSjI3UTF2Rm1QQTpYeXBoR1pBZ2lEcmJqbldjVnZ3QWQ1c05vTnNjVmNWUXpyOWtneVpGMERRWVNMYWg=
+< content-length: 29
+< x-forwarded-proto: https
+< x-request-id: 7d0cbb17-e195-49e6-88e1-614f04ff4d74
+< x-dynatrace: FW4;-1055106265;10;1266394487;255700908;0;643789619;314;59e2;2h01;3h4b7ba577;4h0f3dafac;5h01;6ha886d108fde6831bd6ee3fa83238ca42;7h68c4f431fd497488
+< tracestate: 265f7333-c11c5b27@dt=fw4;a;4b7ba577;f3dafac;0;0;0;13a;ef7f;2h01;3h4b7ba577;4h0f3dafac;5h01;7h68c4f431fd497488
+< traceparent: 00-a886d108fde6831bd6ee3fa83238ca42-68c4f431fd497488-01
+< date: Sun, 25 May 2025 22:18:08 GMT
+< 
+* Connection #0 to host api.safaricom.co.ke left intact
+
+Raw Response (before parsing): grant_type=client_credentials
+JSON Parse Error: Syntax error
+Error Details: 4
+Raw Response: grant_type=client_credentials
+General Error: Invalid response format: grant_type=client_credentials

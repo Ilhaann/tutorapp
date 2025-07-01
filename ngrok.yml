@@ -1,0 +1,8 @@
+version: 2
+authtoken: "your-auth-token-here"  # You'll need to add your ngrok auth token here
+
+tunnels:
+  tutorapp:
+    addr: 80
+    proto: http
+    bind_tls: true

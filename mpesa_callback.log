@@ -1,0 +1,278 @@
+2025-06-23T23:26:24+02:00
+
+
+2025-06-23T23:26:24+02:00
+PARSED: 
+
+2025-06-23T23:47:44+02:00
+{"Body":{"stkCallback":{"MerchantRequestID":"f84e-4f4e-997a-ccfa20fde2e3214655","CheckoutRequestID":"ws_CO_24062025004950582704640885","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1.00},{"Name":"MpesaReceiptNumber","Value":"TFO94N7HIZ"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20250624004743},{"Name":"PhoneNumber","Value":254704640885}]}}}}
+
+2025-06-23T23:47:44+02:00
+PARSED: Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => f84e-4f4e-997a-ccfa20fde2e3214655
+                    [CheckoutRequestID] => ws_CO_24062025004950582704640885
+                    [ResultCode] => 0
+                    [ResultDesc] => The service request is processed successfully.
+                    [CallbackMetadata] => Array
+                        (
+                            [Item] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Name] => Amount
+                                            [Value] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Name] => MpesaReceiptNumber
+                                            [Value] => TFO94N7HIZ
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [Name] => Balance
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [Name] => TransactionDate
+                                            [Value] => 20250624004743
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [Name] => PhoneNumber
+                                            [Value] => 254704640885
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-06-23T23:47:44+02:00
+Updating payment for checkout_request_id: ws_CO_24062025004950582704640885, status: completed, receipt: TFO94N7HIZ
+2025-06-23T23:47:44+02:00
+Rows updated: 1
+2025-06-27T20:23:30+02:00
+{"Body":{"stkCallback":{"MerchantRequestID":"f84e-4f4e-997a-ccfa20fde2e3319380","CheckoutRequestID":"ws_CO_27062025212535770704640885","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1.00},{"Name":"MpesaReceiptNumber","Value":"TFR7N39MDH"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20250627212327},{"Name":"PhoneNumber","Value":254704640885}]}}}}
+
+2025-06-27T20:23:30+02:00
+PARSED: Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => f84e-4f4e-997a-ccfa20fde2e3319380
+                    [CheckoutRequestID] => ws_CO_27062025212535770704640885
+                    [ResultCode] => 0
+                    [ResultDesc] => The service request is processed successfully.
+                    [CallbackMetadata] => Array
+                        (
+                            [Item] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Name] => Amount
+                                            [Value] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Name] => MpesaReceiptNumber
+                                            [Value] => TFR7N39MDH
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [Name] => Balance
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [Name] => TransactionDate
+                                            [Value] => 20250627212327
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [Name] => PhoneNumber
+                                            [Value] => 254704640885
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-06-27T20:23:30+02:00
+Updating payment for checkout_request_id: ws_CO_27062025212535770704640885, status: completed, receipt: TFR7N39MDH
+2025-06-27T20:23:30+02:00
+Rows updated: 1
+2025-06-30T21:31:15+02:00
+
+
+2025-06-30T21:31:15+02:00
+PARSED: 
+
+2025-06-30T21:45:05+02:00
+{
+  "Body": {
+    "stkCallback": {
+      "MerchantRequestID": "test",
+      "CheckoutRequestID": "ws_CO_30062025223437206704640885",
+      "ResultCode": 0,
+      "ResultDesc": "The service request is processed successfully.",
+      "CallbackMetadata": {
+        "Item": [
+          { "Name": "Amount", "Value": 1.00 },
+          { "Name": "MpesaReceiptNumber", "Value": "TESTRECEIPT" },
+          { "Name": "Balance" },
+          { "Name": "TransactionDate", "Value": 20250630223437 },
+          { "Name": "PhoneNumber", "Value": 254700000000 }
+        ]
+      }
+    }
+  }
+}
+
+2025-06-30T21:45:05+02:00
+PARSED: Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => test
+                    [CheckoutRequestID] => ws_CO_30062025223437206704640885
+                    [ResultCode] => 0
+                    [ResultDesc] => The service request is processed successfully.
+                    [CallbackMetadata] => Array
+                        (
+                            [Item] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Name] => Amount
+                                            [Value] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Name] => MpesaReceiptNumber
+                                            [Value] => TESTRECEIPT
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [Name] => Balance
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [Name] => TransactionDate
+                                            [Value] => 20250630223437
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [Name] => PhoneNumber
+                                            [Value] => 254700000000
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-06-30T21:45:05+02:00
+Updating payment for checkout_request_id: ws_CO_30062025223437206704640885, status: completed, receipt: TESTRECEIPT
+2025-06-30T21:45:05+02:00
+Rows updated: 1
+2025-06-30T21:47:30+02:00
+{"Body":{"stkCallback":{"MerchantRequestID":"4c97-4c9a-8b2f-90232dba2d9345996","CheckoutRequestID":"ws_CO_30062025224715373704640885","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1.00},{"Name":"MpesaReceiptNumber","Value":"TFU02ZT2H0"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20250630224726},{"Name":"PhoneNumber","Value":254704640885}]}}}}
+
+2025-06-30T21:47:30+02:00
+PARSED: Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 4c97-4c9a-8b2f-90232dba2d9345996
+                    [CheckoutRequestID] => ws_CO_30062025224715373704640885
+                    [ResultCode] => 0
+                    [ResultDesc] => The service request is processed successfully.
+                    [CallbackMetadata] => Array
+                        (
+                            [Item] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Name] => Amount
+                                            [Value] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Name] => MpesaReceiptNumber
+                                            [Value] => TFU02ZT2H0
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [Name] => Balance
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [Name] => TransactionDate
+                                            [Value] => 20250630224726
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [Name] => PhoneNumber
+                                            [Value] => 254704640885
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-06-30T21:47:30+02:00
+Updating payment for checkout_request_id: ws_CO_30062025224715373704640885, status: completed, receipt: TFU02ZT2H0
+2025-06-30T21:47:30+02:00
+Rows updated: 1
