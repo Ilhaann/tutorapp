@@ -39,9 +39,12 @@ if ($checkoutRequestID) {
     $db = new Database();
     $pdo = $db->getConnection();
     file_put_contents('mpesa_callback.log', date('c') . "\nUpdating payment for checkout_request_id: $checkoutRequestID, status: $status, receipt: $receipt\n", FILE_APPEND);
-    $stmt = $pdo->prepare("UPDATE payments SET status = ?, mpesa_receipt_number = ? WHERE checkout_request_id = ?");
+    $stmt = $pdo->prepare("UPDATE payments SET status = ?, mpesa_receipt_number = ?, updated_at = NOW() WHERE checkout_request_id = ?");
     $stmt->execute([$status, $receipt, $checkoutRequestID]);
     file_put_contents('mpesa_callback.log', date('c') . "\nRows updated: " . $stmt->rowCount() . "\n", FILE_APPEND);
+    if ($stmt->rowCount() === 0) {
+        file_put_contents('mpesa_callback.log', date('c') . "\nNo payment row found for checkout_request_id: $checkoutRequestID\n", FILE_APPEND);
+    }
     
     // If payment is successful, mark the time slot as booked and update session
     if ($status === 'completed') {
