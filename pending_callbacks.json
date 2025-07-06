@@ -1,0 +1,41 @@
+[
+    {
+        "timestamp": "2025-07-05T17:00:57+02:00",
+        "checkout_request_id": "test-checkout-456",
+        "status": "completed",
+        "receipt": "TEST_RECEIPT_123",
+        "callback_data": {
+            "Body": {
+                "stkCallback": {
+                    "MerchantRequestID": "test-merchant-123",
+                    "CheckoutRequestID": "test-checkout-456",
+                    "ResultCode": 0,
+                    "ResultDesc": "The service request is processed successfully.",
+                    "CallbackMetadata": {
+                        "Item": [
+                            {
+                                "Name": "Amount",
+                                "Value": 1
+                            },
+                            {
+                                "Name": "MpesaReceiptNumber",
+                                "Value": "TEST_RECEIPT_123"
+                            },
+                            {
+                                "Name": "Balance"
+                            },
+                            {
+                                "Name": "TransactionDate",
+                                "Value": "20250705170038"
+                            },
+                            {
+                                "Name": "PhoneNumber",
+                                "Value": 254704640885
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
