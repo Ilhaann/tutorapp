@@ -11,7 +11,6 @@ ALTER TABLE payments
 ADD INDEX idx_merchant_request_id (merchant_request_id),
 ADD INDEX idx_checkout_request_id (checkout_request_id);
 
--- Add a new table for MPESA transaction logs
 CREATE TABLE IF NOT EXISTS mpesa_transactions (
     id INT PRIMARY KEY AUTO_INCREMENT,
     payment_id INT NOT NULL,
@@ -29,7 +28,6 @@ CREATE TABLE IF NOT EXISTS mpesa_transactions (
     FOREIGN KEY (payment_id) REFERENCES payments(id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Add indexes for MPESA transactions
 ALTER TABLE mpesa_transactions
 ADD INDEX idx_merchant_request_id (merchant_request_id),
 ADD INDEX idx_checkout_request_id (checkout_request_id),
