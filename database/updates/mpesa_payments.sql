@@ -1,4 +1,4 @@
--- Add MPESA specific fields to payments table
+
 ALTER TABLE payments
 ADD COLUMN merchant_request_id VARCHAR(50) NULL AFTER transaction_id,
 ADD COLUMN checkout_request_id VARCHAR(50) NULL AFTER merchant_request_id,
@@ -7,7 +7,6 @@ ADD COLUMN response_code VARCHAR(10) NULL AFTER status,
 ADD COLUMN response_description TEXT NULL AFTER response_code,
 ADD COLUMN callback_metadata JSON NULL AFTER response_description;
 
--- Add indexes for better query performance
 ALTER TABLE payments
 ADD INDEX idx_merchant_request_id (merchant_request_id),
 ADD INDEX idx_checkout_request_id (checkout_request_id);
